@@ -43,7 +43,6 @@ Now I am looking for an interesting job in ML
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![FastApi](https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=FastApi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=PostMan&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/scipy-8CAAE63?style=for-the-badge&logo=scipy&logoColor=white)
